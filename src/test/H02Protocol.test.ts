@@ -131,6 +131,15 @@ describe("H02Protocol", () => {
   });
 
   test("constructor should initialize with custom options", () => {
+    // Create a new protocol instance with custom messageLength
+    const options: H02ProtocolOptions = {
+      port: 5020,
+      acknowledgeMessages: true,
+      messageLength: 32,
+    };
+    new H02Protocol(options);
+
+    // Now verify it was called with 32
     expect(H02FrameDecoder).toHaveBeenCalledWith(32);
   });
 

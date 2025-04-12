@@ -418,7 +418,7 @@ FN:271,(anonymous_18)
 FN:285,(anonymous_19)
 FNF:20
 FNH:19
-FNDA:20,(anonymous_0)
+FNDA:19,(anonymous_0)
 FNDA:11,(anonymous_1)
 FNDA:11,(anonymous_2)
 FNDA:3,(anonymous_3)
@@ -445,13 +445,13 @@ DA:4,2
 DA:5,2
 DA:6,2
 DA:41,2
-DA:43,20
-DA:44,20
-DA:54,20
-DA:57,20
-DA:66,20
-DA:67,20
-DA:68,20
+DA:43,19
+DA:44,19
+DA:54,19
+DA:57,19
+DA:66,19
+DA:67,19
+DA:68,19
 DA:76,11
 DA:77,11
 DA:78,1
@@ -536,7 +536,7 @@ DA:272,1
 DA:286,1
 LF:96
 LH:90
-BRDA:53,0,0,1
+BRDA:53,0,0,0
 BRDA:77,1,0,1
 BRDA:102,2,0,1
 BRDA:114,3,0,0
@@ -557,7 +557,7 @@ BRDA:242,14,0,3
 BRDA:242,14,1,1
 BRDA:257,15,0,1
 BRF:20
-BRH:16
+BRH:15
 end_of_record
 TN:
 SF:src/protocol/H02ProtocolDecoder.ts
