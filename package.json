@@ -1,6 +1,6 @@
 {
   "name": "h2o-protocol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementation of H2O/H02 protocol for GPS tracking devices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
