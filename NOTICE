@@ -1,0 +1,22 @@
+This project contains open source software components.
+
+Copyright (c) 2023-2024 Annaël Moussa, Heckima Labs
+
+This NOTICE file contains attributions of third-party software components that may be included in this project.
+
+h2o-protocol - Implementation of H2O/H02 protocol for GPS tracking devices
+Licensed under Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+This project incorporates the following open source components:
+
+events (^3.3.0)
+License: MIT
+Source: https://github.com/browserify/events
+
+Development dependencies:
+
+- TypeScript and related tools (@typescript-eslint, ts-jest)
+- Testing frameworks (Jest)
+- Node.js type definitions
+
+For complete licensing information, please refer to the LICENSE file.
