@@ -19,6 +19,14 @@
   ],
   "author": "Annaël Moussa",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heckima-Labs/h2o-protocol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Heckima-Labs/h2o-protocol/issues"
+  },
+  "homepage": "https://github.com/Heckima-Labs/h2o-protocol#readme",
   "devDependencies": {
     "@types/jest": "^29.5.3",
     "@types/node": "^20.4.5",
